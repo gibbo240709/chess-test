@@ -15,3 +15,16 @@ captured_black_pieces = []
 turn_step = 0
 selection = 100
 valid_moves = []
+
+image_urls = ["https://media.geeksforgeeks.org/wp-content/uploads/20240302025946/black_queen.png",
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025948/black_king.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025345/black_rook.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025951/black_bishop.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025947/black_knight.png",
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025945/black_pawn.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025952/white_queen.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025943/white_king.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/2024030205949/white_rook.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025944/white_bishop.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025325/white_knight.png", 
+              "https://media.geeksforgeeks.org/wp-content/uploads/20240302025953/white_pawn.png"]
