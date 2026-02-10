@@ -12,3 +12,6 @@ black_locations = [(0, 7), (1, 7), (2, 7), (3, 7), (4, 7), (5, 7), (6, 7), (7, 7
 captures_white_pieces = []
 captured_black_pieces = []
 
+turn_step = 0
+selection = 100
+valid_moves = []
